@@ -1,0 +1,17 @@
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	77978275	Ambient			\Default Work Unit\Master Audio Bus\Ambient	
+	1635194334	PC			\Default Work Unit\Master Audio Bus\PC	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	348963605	Reverb			\Default Work Unit\Master Audio Bus\Reverb	
+	1224332134	reverb_step			\Default Work Unit\Master Audio Bus\reverb_step	
+
+Effect plug-ins	ID	Name	Type				Notes
+	535667444	Bathroom1	Wwise Matrix Reverb			
+	2891462749	Room_Medium_High_Absorbtion	Wwise RoomVerb			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

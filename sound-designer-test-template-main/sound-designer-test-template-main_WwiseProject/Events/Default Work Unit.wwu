@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D0CF7007-7C0D-41BA-B78C-135C064311F4}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{D0CF7007-7C0D-41BA-B78C-135C064311F4}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="PC" ID="{00B1DA2E-7389-4432-A65D-F36F658D3459}" ShortID="1028233983">
+					<ChildrenList>
+						<Event Name="footsteps" ID="{6419593C-3857-4FFC-BF5A-DCF406772C86}">
+							<ChildrenList>
+								<Action Name="" ID="{AEA9F076-0AE3-40A6-AB59-E43E9D1839C9}" ShortID="136252413">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="footsteps" ID="{3D5009B4-1435-4812-B72C-1D3FF7FDA632}" WorkUnitID="{CBDD2840-5BCD-4D22-8138-C15BE6690973}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{07B427D1-34F9-4F8A-BAE5-EFD5634D613D}" ShortID="168348200">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="clothes" ID="{D7228823-79B8-4D4C-B3BA-0189C4A70B63}" WorkUnitID="{CBDD2840-5BCD-4D22-8138-C15BE6690973}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="jump" ID="{111C4A7E-E5C2-47CB-84FC-F9A63806007A}">
+							<ChildrenList>
+								<Action Name="" ID="{FFC28D30-D043-4696-82A0-F2F32A599DC9}" ShortID="553183011">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="jump_clothes" ID="{C659C7E5-48D9-4220-941A-19A61EE4BFFF}" WorkUnitID="{CBDD2840-5BCD-4D22-8138-C15BE6690973}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{72F6AF59-5A8B-4E12-ADAB-1788738C3C91}" ShortID="25238093">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="jump _land" ID="{FDB78CAF-E45C-4338-8A22-374FFBA7FA14}" WorkUnitID="{CBDD2840-5BCD-4D22-8138-C15BE6690973}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Ambient" ID="{4D7E7C7F-FE47-4219-A0C7-DFC874D324D5}" ShortID="217030142">
+					<ChildrenList>
+						<Event Name="interior" ID="{E6494F92-700F-40C0-8556-BAA402E82B40}">
+							<ChildrenList>
+								<Action Name="" ID="{058FE574-D71B-4D54-BC62-D443E88F9B9E}" ShortID="578951673">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="noise interior" ID="{986D792D-4E86-481E-9235-C58193597F8B}" WorkUnitID="{CBDD2840-5BCD-4D22-8138-C15BE6690973}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lamp" ID="{AF5641B9-0370-4ED5-A1C3-33725439ED25}">
+							<ChildrenList>
+								<Action Name="" ID="{187D916D-3EA5-46D5-881C-8900388D6C9D}" ShortID="373483732">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="lamp" ID="{2F157D7F-2E43-4D74-90C7-F587A8B13C17}" WorkUnitID="{CBDD2840-5BCD-4D22-8138-C15BE6690973}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="railings" ID="{2B368477-FE0B-4A00-BCAC-5B7AD0DBC945}">
+							<ChildrenList>
+								<Action Name="" ID="{9BD028E3-62F6-45B7-BB20-3A9A2FEF4AB2}" ShortID="964281060">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="railings" ID="{B2F0BB44-F47C-4FA3-B91D-9589115F78E0}" WorkUnitID="{CBDD2840-5BCD-4D22-8138-C15BE6690973}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="street" ID="{5D9BF47B-4381-4427-A81B-45C2C85CA07D}">
+							<ChildrenList>
+								<Action Name="" ID="{68077366-2520-4AF0-8961-F9C6B435C65D}" ShortID="47576924">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="street noise" ID="{DA1E174C-C50D-4CB1-8343-39DC534B9F6D}" WorkUnitID="{CBDD2840-5BCD-4D22-8138-C15BE6690973}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="wind" ID="{35B96BA4-8AE4-476A-8981-A3C0B6E3764B}">
+							<ChildrenList>
+								<Action Name="" ID="{FFB7ABC0-8290-4298-AFD0-F8AC9D40C2F4}" ShortID="826184827">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="wind" ID="{BBCC5950-6118-4C3E-A7FA-67C8CBD4C3E2}" WorkUnitID="{CBDD2840-5BCD-4D22-8138-C15BE6690973}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="music" ID="{4C48C76E-C923-414A-8AC1-4214A97F3AC3}">
+							<ChildrenList>
+								<Action Name="" ID="{8B0514B2-6E17-49A0-90BE-6DD33885D2CD}" ShortID="1007060557">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="music" ID="{5B00C9C2-D6F6-4F3C-BAF7-5E896C8597D9}" WorkUnitID="{CBDD2840-5BCD-4D22-8138-C15BE6690973}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="AI" ID="{51E2FF06-AF96-463B-8B29-765C3BD9B674}" ShortID="475213549">
+					<ChildrenList>
+						<Event Name="AIsteps" ID="{D8A0626A-9FDD-4AD4-B306-779158E46E52}">
+							<ChildrenList>
+								<Action Name="" ID="{F6BC69A2-59FD-4E1A-843F-D85832635A74}" ShortID="771419400">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="AIsteps" ID="{3D2FB65B-AB19-4F85-A65A-75FD41C59217}" WorkUnitID="{CBDD2840-5BCD-4D22-8138-C15BE6690973}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

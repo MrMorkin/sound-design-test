@@ -1,0 +1,185 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b9cf1521ccf0bd4a933eb96ed623dfe, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 3b8523d0e196a942808c9d69ac2453c9
+    GuidInternal: 
+    m_lastTime: -8585902059997700173
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 95b3740367df724ba12ba11c83fb346c
+    GuidInternal: 
+    m_lastTime: -8585900976445411572
+    List:
+    - name: Ambient
+      guid: a15819916564134d970f48e54363886f
+      id: 77978275
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: Ambient
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus\Ambient
+    - name: Master Audio Bus
+      guid: d8a41415a61d2a41a17e75ca0c2149f3
+      id: 3803692087
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus
+    - name: PC
+      guid: 0ebecde0e87aef44bbc133f84cac9bd1
+      id: 1635194334
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: PC
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus\PC
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: a18943a924f5ed4cbc633db671124418
+    GuidInternal: 
+    m_lastTime: -8585901202980516038
+    List:
+    - name: Master
+      guid: 34643fa9e7b2c1438611ec1a572ecd25
+      id: 4056684167
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 7
+      Path: Default Work Unit\Master
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 0770cfd00d7cba41b78c135c064311f4
+    GuidInternal: 
+    m_lastTime: -8585899962490092211
+    List:
+    - name: footsteps
+      guid: 3c5919645738fc4fbf5adcf406772c86
+      id: 2385628198
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: PC
+        ObjectType: 4
+      - ElementName: footsteps
+        ObjectType: 3
+      Path: Default Work Unit\PC\footsteps
+      maxAttenuation: 0
+      maxDuration: 1.483593
+      minDuration: 0.417688
+    - name: jump
+      guid: 7e4a1c11c2e5cb4784fcf9a63806007a
+      id: 3833651337
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: PC
+        ObjectType: 4
+      - ElementName: jump
+        ObjectType: 3
+      Path: Default Work Unit\PC\jump
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: PC
+      guid: 2edab10089733244a65df36f658d3459
+      id: 1635194334
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: PC
+        ObjectType: 4
+      Path: Default Work Unit\PC
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 54414d73b3f087448ccd71ace885fb9c
+    GuidInternal: 
+    m_lastTime: -8585902059999028412
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 35fd687500122c49b7cdaec0a3ab10b9
+    GuidInternal: 
+    m_lastTime: -8585902059998408285
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: ac6ae6a13d2a7146a21cc74dc08e9117
+    GuidInternal: 
+    m_lastTime: -8585901228596799781
+    List:
+    - name: surface
+      guid: 149a416049e2254791ae0c0a76d88f8c
+      id: 1834394558
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: surface
+        ObjectType: 11
+      Path: Default Work Unit\surface
+      values:
+      - name: stairs
+        guid: 342d1a043722c34f8fcf7cb9a285c441
+        id: 1289942167
+        PathAndIcons:
+        - ElementName: stairs
+          ObjectType: 10
+      - name: tile
+        guid: 45e5194cbbcf204f8bc739f4a93ded62
+        id: 2637588553
+        PathAndIcons:
+        - ElementName: tile
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 139669ede702644fa99b47bc61fd4b3d
+    GuidInternal: 
+    m_lastTime: -8585902059997779951
+    List: []
+  ExpandedItems:
+  - /sound-designer-test-template-main_WwiseProject
+  - /sound-designer-test-template-main_WwiseProject/Events
+  - /sound-designer-test-template-main_WwiseProject/Events/Default Work Unit
+  - /sound-designer-test-template-main_WwiseProject/Events/Default Work Unit/PC
+  - /sound-designer-test-template-main_WwiseProject/Switches
+  - /sound-designer-test-template-main_WwiseProject/Switches/Default Work Unit
+  - /sound-designer-test-template-main_WwiseProject/Switches/Default Work Unit/surface
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 

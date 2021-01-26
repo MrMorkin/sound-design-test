@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>D:\Morkin\Sound Design\Test task\TEst Task\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>D:\Morkin\Sound Design\Test task\TEst Task\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Morkin\Sound Design\Test task\TEst Task\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Morkin\Sound Design\Test task\TEst Task\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedAuxBusses>
+				<AuxBus Id="348963605" Name="Reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Reverb"/>
+				<AuxBus Id="1224332134" Name="reverb_step" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\reverb_step"/>
+			</IncludedAuxBusses>
+		</SoundBank>
+		<SoundBank Id="4056684167" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Master</ObjectPath>
+			<ShortName>Master</ShortName>
+			<Path>Master.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1738619808" Name="AIsteps" ObjectPath="\Events\Default Work Unit\AI\AIsteps" MaxAttenuation="2.000000" DurationType="OneShot" DurationMin="0.149090" DurationMax="1.192587">
+					<IncludedMemoryFiles>
+						<File Id="1954578" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_04.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_04_FFF0998B.wem</Path>
+						</File>
+						<File Id="57358210" Language="SFX">
+							<ShortName>Footsteps\step 5.wav</ShortName>
+							<Path>SFX\Footsteps\step 5_CD8EDA95.wem</Path>
+						</File>
+						<File Id="82008373" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_06.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_06_A6E152F2.wem</Path>
+						</File>
+						<File Id="134756636" Language="SFX">
+							<ShortName>Footsteps\step 8.wav</ShortName>
+							<Path>SFX\Footsteps\step 8_CD8EDA95.wem</Path>
+						</File>
+						<File Id="228149081" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_02.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_02_469E1AB2.wem</Path>
+						</File>
+						<File Id="235360999" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_08.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_08_A1D560D0.wem</Path>
+						</File>
+						<File Id="241046821" Language="SFX">
+							<ShortName>Footsteps\step 13.wav</ShortName>
+							<Path>SFX\Footsteps\step 13_CD8EDA95.wem</Path>
+						</File>
+						<File Id="244573742" Language="SFX">
+							<ShortName>Footsteps\step 1.wav</ShortName>
+							<Path>SFX\Footsteps\step 1_CD8EDA95.wem</Path>
+						</File>
+						<File Id="259314986" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_09.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_09_30C2604D.wem</Path>
+						</File>
+						<File Id="266765336" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_12.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_12_CD8EDA95.wem</Path>
+						</File>
+						<File Id="396292155" Language="SFX">
+							<ShortName>Footsteps\step 9.wav</ShortName>
+							<Path>SFX\Footsteps\step 9_CD8EDA95.wem</Path>
+						</File>
+						<File Id="413500125" Language="SFX">
+							<ShortName>Footsteps\step 3.wav</ShortName>
+							<Path>SFX\Footsteps\step 3_CD8EDA95.wem</Path>
+						</File>
+						<File Id="445921048" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_03.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_03_CD8EDA95.wem</Path>
+						</File>
+						<File Id="473775279" Language="SFX">
+							<ShortName>Footsteps\step 10.wav</ShortName>
+							<Path>SFX\Footsteps\step 10_CD8EDA95.wem</Path>
+						</File>
+						<File Id="485600436" Language="SFX">
+							<ShortName>Footsteps\step 4.wav</ShortName>
+							<Path>SFX\Footsteps\step 4_CD8EDA95.wem</Path>
+						</File>
+						<File Id="495905843" Language="SFX">
+							<ShortName>Footsteps\step 6.wav</ShortName>
+							<Path>SFX\Footsteps\step 6_CD8EDA95.wem</Path>
+						</File>
+						<File Id="534933389" Language="SFX">
+							<ShortName>Footsteps\step 2.wav</ShortName>
+							<Path>SFX\Footsteps\step 2_CD8EDA95.wem</Path>
+						</File>
+						<File Id="555417337" Language="SFX">
+							<ShortName>Footsteps\step 11.wav</ShortName>
+							<Path>SFX\Footsteps\step 11_CD8EDA95.wem</Path>
+						</File>
+						<File Id="589705972" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_11.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_11_CD8EDA95.wem</Path>
+						</File>
+						<File Id="597259080" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_07.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_07_2491BAED.wem</Path>
+						</File>
+						<File Id="669046186" Language="SFX">
+							<ShortName>Footsteps\step 7.wav</ShortName>
+							<Path>SFX\Footsteps\step 7_CD8EDA95.wem</Path>
+						</File>
+						<File Id="669568589" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_01.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_01_8D3C7829.wem</Path>
+						</File>
+						<File Id="892480941" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_05.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_05_97C2C459.wem</Path>
+						</File>
+						<File Id="950338725" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_10.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_10_CD8EDA95.wem</Path>
+						</File>
+						<File Id="978556529" Language="SFX">
+							<ShortName>Footsteps\step 12.wav</ShortName>
+							<Path>SFX\Footsteps\step 12_CD8EDA95.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2385628198" Name="footsteps" ObjectPath="\Events\Default Work Unit\PC\footsteps" DurationType="OneShot" DurationMin="0.417688" DurationMax="1.299024">
+					<IncludedMemoryFiles>
+						<File Id="1583539" Language="SFX">
+							<ShortName>Footsteps\stairs\step_stairs_shoes_09.wav</ShortName>
+							<Path>SFX\Footsteps\stairs\step_stairs_shoes_09_DEF47087.wem</Path>
+						</File>
+						<File Id="38794742" Language="SFX">
+							<ShortName>Footsteps\stairs\step_stairs_shoes_08.wav</ShortName>
+							<Path>SFX\Footsteps\stairs\step_stairs_shoes_08_4E26EC0F.wem</Path>
+						</File>
+						<File Id="126324776" Language="SFX">
+							<ShortName>Footsteps\clothes_03.wav</ShortName>
+							<Path>SFX\Footsteps\clothes_03_271A2733.wem</Path>
+						</File>
+						<File Id="140452530" Language="SFX">
+							<ShortName>Footsteps\stairs\step_stairs_shoes_05.wav</ShortName>
+							<Path>SFX\Footsteps\stairs\step_stairs_shoes_05_1C42DC68.wem</Path>
+						</File>
+						<File Id="194197827" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_10.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_10_C1F52A07.wem</Path>
+						</File>
+						<File Id="282247652" Language="SFX">
+							<ShortName>Footsteps\clothes_01.wav</ShortName>
+							<Path>SFX\Footsteps\clothes_01_D84C325F.wem</Path>
+						</File>
+						<File Id="352822361" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_11.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_11_C1F52A07.wem</Path>
+						</File>
+						<File Id="357209715" Language="SFX">
+							<ShortName>Footsteps\stairs\step_stairs_shoes_13.wav</ShortName>
+							<Path>SFX\Footsteps\stairs\step_stairs_shoes_13_9276575A.wem</Path>
+						</File>
+						<File Id="365284024" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_03.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_03_C1F52A07.wem</Path>
+						</File>
+						<File Id="418400106" Language="SFX">
+							<ShortName>Footsteps\stairs\step_stairs_shoes_21.wav</ShortName>
+							<Path>SFX\Footsteps\stairs\step_stairs_shoes_21_D22D1CF7.wem</Path>
+						</File>
+						<File Id="465896210" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_06.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_06_D3A1C490.wem</Path>
+						</File>
+						<File Id="471413290" Language="SFX">
+							<ShortName>Footsteps\stairs\step_stairs_shoes_19.wav</ShortName>
+							<Path>SFX\Footsteps\stairs\step_stairs_shoes_19_0C3CD64D.wem</Path>
+						</File>
+						<File Id="478368760" Language="SFX">
+							<ShortName>Footsteps\stairs\step_stairs_shoes_20.wav</ShortName>
+							<Path>SFX\Footsteps\stairs\step_stairs_shoes_20_3B3A2BF2.wem</Path>
+						</File>
+						<File Id="596519605" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_08.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_08_7CA98A22.wem</Path>
+						</File>
+						<File Id="620235565" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_12.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_12_C1F52A07.wem</Path>
+						</File>
+						<File Id="648422005" Language="SFX">
+							<ShortName>Footsteps\stairs\step_stairs_shoes_17.wav</ShortName>
+							<Path>SFX\Footsteps\stairs\step_stairs_shoes_17_90BB6DCA.wem</Path>
+						</File>
+						<File Id="662055640" Language="SFX">
+							<ShortName>Footsteps\stairs\step_stairs_shoes_10.wav</ShortName>
+							<Path>SFX\Footsteps\stairs\step_stairs_shoes_10_702125F0.wem</Path>
+						</File>
+						<File Id="724779619" Language="SFX">
+							<ShortName>Footsteps\clothes_04.wav</ShortName>
+							<Path>SFX\Footsteps\clothes_04_31ACDF08.wem</Path>
+						</File>
+						<File Id="740354811" Language="SFX">
+							<ShortName>Footsteps\stairs\step_stairs_shoes_11.wav</ShortName>
+							<Path>SFX\Footsteps\stairs\step_stairs_shoes_11_D63FC2A5.wem</Path>
+						</File>
+						<File Id="794292738" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_02.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_02_B63DA46C.wem</Path>
+						</File>
+						<File Id="845949020" Language="SFX">
+							<ShortName>Footsteps\stairs\step_stairs_shoes_12.wav</ShortName>
+							<Path>SFX\Footsteps\stairs\step_stairs_shoes_12_53199AC1.wem</Path>
+						</File>
+						<File Id="849014144" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_09.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_09_27FC3ED7.wem</Path>
+						</File>
+						<File Id="849266002" Language="SFX">
+							<ShortName>Footsteps\stairs\step_stairs_shoes_16.wav</ShortName>
+							<Path>SFX\Footsteps\stairs\step_stairs_shoes_16_D4B13967.wem</Path>
+						</File>
+						<File Id="866159179" Language="SFX">
+							<ShortName>Footsteps\stairs\step_stairs_shoes_06.wav</ShortName>
+							<Path>SFX\Footsteps\stairs\step_stairs_shoes_06_CF416F4F.wem</Path>
+						</File>
+						<File Id="898167008" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_01.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_01_A23F4D97.wem</Path>
+						</File>
+						<File Id="918202530" Language="SFX">
+							<ShortName>Footsteps\stairs\step_stairs_shoes_14.wav</ShortName>
+							<Path>SFX\Footsteps\stairs\step_stairs_shoes_14_12DE008B.wem</Path>
+						</File>
+						<File Id="937132782" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_07.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_07_96336BEB.wem</Path>
+						</File>
+						<File Id="942574265" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_04.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_04_4FC9B7C1.wem</Path>
+						</File>
+						<File Id="1053874746" Language="SFX">
+							<ShortName>Footsteps\clothes_02.wav</ShortName>
+							<Path>SFX\Footsteps\clothes_02_0215B719.wem</Path>
+						</File>
+						<File Id="1057658217" Language="SFX">
+							<ShortName>Footsteps\tile\step tile  shoes_05.wav</ShortName>
+							<Path>SFX\Footsteps\tile\step tile  shoes_05_194B9CCB.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{4C19E545-CFBB-4F20-8BC7-39F4A93DED62}">
+							<Media>
+								<File Id="898167008"/>
+								<File Id="794292738"/>
+								<File Id="365284024"/>
+								<File Id="942574265"/>
+								<File Id="1057658217"/>
+								<File Id="465896210"/>
+								<File Id="937132782"/>
+								<File Id="596519605"/>
+								<File Id="849014144"/>
+								<File Id="194197827"/>
+								<File Id="352822361"/>
+								<File Id="620235565"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{041A2D34-2237-4FC3-8FCF-7CB9A285C441}">
+							<Media>
+								<File Id="140452530"/>
+								<File Id="866159179"/>
+								<File Id="38794742"/>
+								<File Id="1583539"/>
+								<File Id="662055640"/>
+								<File Id="740354811"/>
+								<File Id="845949020"/>
+								<File Id="357209715"/>
+								<File Id="918202530"/>
+								<File Id="849266002"/>
+								<File Id="648422005"/>
+								<File Id="471413290"/>
+								<File Id="478368760"/>
+								<File Id="418400106"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="1132214669" Name="interior" ObjectPath="\Events\Default Work Unit\Ambient\interior" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="881122717" Language="SFX">
+							<ShortName>Street noise.wav</ShortName>
+							<Path>SFX\Street noise_4766FE73.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3833651337" Name="jump" ObjectPath="\Events\Default Work Unit\PC\jump" DurationType="OneShot" DurationMin="1.793851" DurationMax="4.619484">
+					<IncludedMemoryFiles>
+						<File Id="420421" Language="SFX">
+							<ShortName>Footsteps\Jump_clothes\jump clothes [2021-01-26 003241].wav</ShortName>
+							<Path>SFX\Footsteps\Jump_clothes\jump clothes [2021-01-26 003241]_BC063745.wem</Path>
+						</File>
+						<File Id="24122040" Language="SFX">
+							<ShortName>Footsteps\Jump_clothes\jump_02.wav</ShortName>
+							<Path>SFX\Footsteps\Jump_clothes\jump_02_C1F52A07.wem</Path>
+						</File>
+						<File Id="174142366" Language="SFX">
+							<ShortName>Footsteps\Jump_clothes\jump_06.wav</ShortName>
+							<Path>SFX\Footsteps\Jump_clothes\jump_06_C1F52A07.wem</Path>
+						</File>
+						<File Id="303556870" Language="SFX">
+							<ShortName>Footsteps\Jump_clothes\jump clothes [2021-01-26 003222].wav</ShortName>
+							<Path>SFX\Footsteps\Jump_clothes\jump clothes [2021-01-26 003222]_6E150B20.wem</Path>
+						</File>
+						<File Id="599083345" Language="SFX">
+							<ShortName>Footsteps\Jump_clothes\jump clothes [2021-01-26 003244].wav</ShortName>
+							<Path>SFX\Footsteps\Jump_clothes\jump clothes [2021-01-26 003244]_3E7777C2.wem</Path>
+						</File>
+						<File Id="704397028" Language="SFX">
+							<ShortName>Footsteps\Jump_clothes\jump clothes [2021-01-26 003215].wav</ShortName>
+							<Path>SFX\Footsteps\Jump_clothes\jump clothes [2021-01-26 003215]_D65D4C62.wem</Path>
+						</File>
+						<File Id="712156929" Language="SFX">
+							<ShortName>Footsteps\Jump_clothes\jump clothes [2021-01-26 003237].wav</ShortName>
+							<Path>SFX\Footsteps\Jump_clothes\jump clothes [2021-01-26 003237]_9A8BFC3B.wem</Path>
+						</File>
+						<File Id="729954040" Language="SFX">
+							<ShortName>Footsteps\Jump_clothes\jump_07.wav</ShortName>
+							<Path>SFX\Footsteps\Jump_clothes\jump_07_C1F52A07.wem</Path>
+						</File>
+						<File Id="821081365" Language="SFX">
+							<ShortName>Footsteps\Jump_clothes\jump clothes [2021-01-26 003227].wav</ShortName>
+							<Path>SFX\Footsteps\Jump_clothes\jump clothes [2021-01-26 003227]_499284BD.wem</Path>
+						</File>
+						<File Id="877306264" Language="SFX">
+							<ShortName>Footsteps\Jump_clothes\jump clothes [2021-01-26 003230].wav</ShortName>
+							<Path>SFX\Footsteps\Jump_clothes\jump clothes [2021-01-26 003230]_2D323CD4.wem</Path>
+						</File>
+						<File Id="901479731" Language="SFX">
+							<ShortName>Footsteps\Jump_clothes\jump_05.wav</ShortName>
+							<Path>SFX\Footsteps\Jump_clothes\jump_05_C1F52A07.wem</Path>
+						</File>
+						<File Id="930766475" Language="SFX">
+							<ShortName>Footsteps\Jump_clothes\jump_03.wav</ShortName>
+							<Path>SFX\Footsteps\Jump_clothes\jump_03_7AE08379.wem</Path>
+						</File>
+						<File Id="932641073" Language="SFX">
+							<ShortName>Footsteps\Jump_clothes\jump clothes [2021-01-26 003233].wav</ShortName>
+							<Path>SFX\Footsteps\Jump_clothes\jump clothes [2021-01-26 003233]_499E50F0.wem</Path>
+						</File>
+						<File Id="971847728" Language="SFX">
+							<ShortName>Footsteps\Jump_clothes\jump_04.wav</ShortName>
+							<Path>SFX\Footsteps\Jump_clothes\jump_04_C1F52A07.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="657744959" Name="lamp" ObjectPath="\Events\Default Work Unit\Ambient\lamp" MaxAttenuation="7.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="467320717" Language="SFX">
+							<ShortName>Room Tone  Fluorescent Light.wav</ShortName>
+							<Path>SFX\Room Tone  Fluorescent Light_4766FE73.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3991942870" Name="music" ObjectPath="\Events\Default Work Unit\Ambient\music" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="667178454" Language="SFX">
+							<ShortName>Bruit 1 [2021-01-26 173226].wav</ShortName>
+							<Path>SFX\Bruit 1 [2021-01-26 173226]_696A9007.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3188214434" Name="railings" ObjectPath="\Events\Default Work Unit\Ambient\railings" MaxAttenuation="11.000000" DurationType="OneShot" DurationMin="0.721341" DurationMax="2.368572">
+					<IncludedMemoryFiles>
+						<File Id="140994587" Language="SFX">
+							<ShortName>ambient\railings_2.wav</ShortName>
+							<Path>SFX\ambient\railings_2_3229A112.wem</Path>
+						</File>
+						<File Id="736616353" Language="SFX">
+							<ShortName>ambient\railings_1.wav</ShortName>
+							<Path>SFX\ambient\railings_1_7C9833ED.wem</Path>
+						</File>
+						<File Id="839516911" Language="SFX">
+							<ShortName>ambient\railings_3.wav</ShortName>
+							<Path>SFX\ambient\railings_3_A0FA5806.wem</Path>
+						</File>
+						<File Id="897599962" Language="SFX">
+							<ShortName>ambient\railings_4.wav</ShortName>
+							<Path>SFX\ambient\railings_4_DE0B9A71.wem</Path>
+						</File>
+						<File Id="993928774" Language="SFX">
+							<ShortName>ambient\railings_5.wav</ShortName>
+							<Path>SFX\ambient\railings_5_C79B3D7B.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4142189312" Name="street" ObjectPath="\Events\Default Work Unit\Ambient\street" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="207258726" Language="SFX">
+							<ShortName>Street noise 1.wav</ShortName>
+							<Path>SFX\Street noise 1_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1537061107" Name="wind" ObjectPath="\Events\Default Work Unit\Ambient\wind" MaxAttenuation="15.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="932651656" Language="SFX">
+							<ShortName>wind loop.wav</ShortName>
+							<Path>SFX\wind loop_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="1664992182" Name="RTPC_occlusion" ObjectPath="\Game Parameters\Default Work Unit\RTPC_occlusion"/>
+			</GameParameters>
+			<SwitchGroups>
+				<SwitchGroup Id="1834394558" Name="surface" ObjectPath="\Switches\Default Work Unit\surface">
+					<Switches>
+						<Switch Id="1289942167" Name="stairs" ObjectPath="\Switches\Default Work Unit\surface\stairs"/>
+						<Switch Id="2637588553" Name="tile" ObjectPath="\Switches\Default Work Unit\surface\tile"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

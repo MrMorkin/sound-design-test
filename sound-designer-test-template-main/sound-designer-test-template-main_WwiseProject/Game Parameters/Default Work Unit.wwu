@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{734D4154-F0B3-4487-8CCD-71ACE885FB9C}" SchemaVersion="97">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{734D4154-F0B3-4487-8CCD-71ACE885FB9C}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="RTPC_occlusion" ID="{0764170E-01BF-4F0B-9782-A0947A8B2470}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>
